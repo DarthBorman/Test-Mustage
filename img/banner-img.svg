@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 719 628" width="719" height="628">
+	<title>Vector</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1"> <feGaussianBlur stdDeviation="41.7"/> </filter>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-75.091,-345.245,512.45,-111.459,357.179,470.229)">
+			<stop offset="0" stop-color="#6823ff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { filter: url(#f1);fill: url(#g1) } 
+	</style>
+	<path id="Vector" class="s0" d="m417.1 451.5c-28.7 23.9-63.6 37.1-99.6 47.4-55.2 15.8-116.8 53.1-165.7 28.7-47.1-23.6-68.3-88.3-56-139.5 12.3-51.6 88.8-66.7 116.5-113.5 18.7-31.8-8.7-73.6 12.1-104.3 22.4-32.9 62.8-50.5 101.4-63 43.4-14.1 87.9-17.1 132.4-12.9 58.9 5.4 154.8-14.1 167.1 40.5 14.7 64.9-81 110.1-119.8 168.6-15.6 23.5-25.4 48.1-39.8 72.3-15.6 26.2-24.6 55.8-48.6 75.7z"/>
+</svg>
